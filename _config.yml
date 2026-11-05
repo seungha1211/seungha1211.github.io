@@ -13,7 +13,7 @@
 title: LEE SEUNGHA
 
 # Your name to show in the footer
-author: Some Person
+author: 이승하
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,6 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - GitHub: "https://github.com/seungha1211"
   Author's home: "https://deanattali.com"
 
 ################
