@@ -2,7 +2,7 @@
 layout: post
 title: "오픈소스소프트웨어 실습"
 subtitle: "Jekyll 및 Jekyll Theme을 활용해서 GitHub page 만들기"
-date: 2026-11-05
+date: 2026-11-04
 tags: [github-pages, jekyll, open-source]
 ---
 
