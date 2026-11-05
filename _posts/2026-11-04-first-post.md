@@ -16,9 +16,4 @@ tags: [github-pages, jekyll, open-source]
 * **GitHub Pages:** GitHub에서 제공하는 정적 웹사이트 호스팅 서비스로, 내부에 Jekyll이 기본 탑재되어 있어 마크다운 글을 저장소에 올리면 자동으로 웹 페이지에 반영됩니다.
 * **GitHub Actions:** 코드 저장소의 이벤트를 감지하여 정기적으로 빌드, 테스트 및 배포를 수행해 주는 CI/CD 자동화 서비스입니다.
 
-## Jekyll, GitHub Pages, GitHub Actions
-* 
 
-```python
-# 코드 블록도 작성 가능합니다.
-print("Hello World!")
