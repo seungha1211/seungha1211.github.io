@@ -2,7 +2,7 @@
 layout: post
 title: "차세대 정지궤도 기상위성 비교 분석 (GK-2A, Himawari-9, GOES-R, MTG)"
 subtitle: "주요 정지궤도 기상위성 센서의 채널, 공간해상도, 관측 모드 및 활용 사례 비교"
-date: 2026-11-10
+date: 2026-11-11
 tags: [satellite, remote-sensing, gk2a, himawari9, goes-r, mtg]
 ---
 
@@ -22,8 +22,9 @@ tags: [satellite, remote-sensing, gk2a, himawari9, goes-r, mtg]
 ## 2. 채널 및 공간해상도 비교
 
 ### 센서별 주요 사양
+
 | 위성 / 센서 | 주요 가시광선 해상도 | 일반 열적외선 해상도 | 고해상도 관측 (Red 밴드 등) |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | **GK-2A / AMI** | 0.5 ~ 1 km | 2 km | Red 밴드 (0.64 µm) 0.5 km |
 | **Himawari-9 / AHI** | 0.5 ~ 1 km | 2 km | Red 밴드 (0.64 µm) 0.5 km |
 | **GOES-R / ABI** | 0.5 ~ 1 km | 2 km | Red 밴드 (0.64 µm) 0.5 km |
@@ -47,7 +48,7 @@ tags: [satellite, remote-sensing, gk2a, himawari9, goes-r, mtg]
 ## 4. 각 위성별 주요 산출물 및 활용 사례
 
 ### 1) GK-2A (AMI)
-* **주요 산출물:** 대기운동벡터( 가시, 수증기, 적외), 에어로졸 탐지(황사, 연무, 화산재)
+* **주요 산출물:** 대기운동벡터(가시, 수증기, 적외), 에어로졸 탐지(황사, 연무, 화산재)
 * **활용 사례:** 태풍 및 집중호우 조기 탐지, 황사/미세먼지 이동 감시, 태양광 발전량 예측
 
 ### 2) Himawari-9 (AHI)
@@ -67,4 +68,3 @@ tags: [satellite, remote-sensing, gk2a, himawari9, goes-r, mtg]
 ## 5. 요약 및 시사점
 
 정지궤도 기상위성은 **고빈도(10분 이내)** 및 **고해상도** 관측 성능을 기반으로 기상 예보 정확도 향상뿐만 아니라 재난 대책(산불, 화산, 태풍) 및 환경/에너지 분야까지 폭넓게 활용되고 있습니다.
-
