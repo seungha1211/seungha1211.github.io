@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Shall we get to know me
 ---
 
 My name is lee seungha. I have the following qualities:
 
-- I live in Busan right now
-- My major is Satellite Information Convergence Engineering
+- I am a third-year student in the Department of Satellite Information Convergence Engineering at Pukyong National University.
+- My hometown is Damyang in Jeolla Province, and I currently live in Busan!
+- I like watching Netflix while eating something delicious at home><
 
 What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
